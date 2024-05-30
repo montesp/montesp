@@ -1,4 +1,4 @@
-## Pavel Montes | Frontend Developer | UI Developer
+## Pavel Montes | Frontend Developer | UI Designer
 ### About me
 I'm Pavel Montes a frontend developer with experience in web development, I have worked with technologies like React, NextJS, Angular.
 I've designed UI mockups using Figma for personal projects.
