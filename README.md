@@ -1,27 +1,32 @@
-# Hello There, I'm Pavel Montes
-I am passionate about technology and always learn and stay up to date with new trends and technologies. I am looking for an opportunity to showcase my skills and contribute. I am excited to work on challenging projects and learn from more experienced developers.
+## Pavel Montes | Frontend Developer | UI Developer
+### About me
+I'm Pavel Montes a frontend developer with experience in web development, I have worked with technologies like React, NextJS, Angular.
+I've designed UI mockups using Figma for personal projects.
+
 
 ### Skills
 ```javascript
-[{
+{
     lenguages: {
+        "Typescript",
         "Javascript"
-        "Python",
+        "Python"
     },
-    basics: {
-        "CSS",
-        "HTML",
-        "Responsive Desing",
-        "API consume",
-    },
-    frameworks: {
+    frameworks_and_libraries: {
         "React",
-        "PyQt"
+        "NextJS",
+        "Angular"
     },
-    preprocesors: "sass",
-}];
+    frontend: {
+        "HTML5",
+        "CSS3",
+        "Tailwind",
+        "Sass"
+    },
+    design: "Figma"
+    version_control: {
+        "Git",
+        "GitHub"
+    },
+};
 ```
-
-### How to reach me:
-- pavemontes22@gmail.com
-
