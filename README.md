@@ -1,32 +1,33 @@
-## Pavel Montes | Frontend Developer | UI Designer
-### About me
-I'm Pavel Montes a frontend developer with experience in web development, I have worked with technologies like React, NextJS, Angular.
-I've designed UI mockups using Figma for personal projects.
+<img  src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
 
+<h1> Frontend Developer | Fullstack Developer</h1>
+<h2>About me</h2>
+Hi! I'm Pavel Montes, a Fullstack Developer with a strong focus on frontend development. Passionate about reading 📚, football 🏈, playing video games 🎮, and listening to music 🎶.
 
-### Skills
+## Skills
 ```javascript
-{
-    lenguages: {
-        "Typescript",
-        "Javascript"
-        "Python"
-    },
-    frameworks_and_libraries: {
-        "React",
-        "NextJS",
-        "Angular"
-    },
+const pavel: Skills = {
+    lenguages: [ 'Typescript', 'Javascript', 'C#'],
     frontend: {
-        "HTML5",
-        "CSS3",
-        "Tailwind",
-        "Sass"
+        basics: ['HTML5', 'CSS3'],
+        frameworks: ['React.js', 'Angular', 'Next.js'],
+        styling: {
+            preprocessors: 'Sass',
+            frameworks: 'Tailwind CSS',
+        },
+        testing: ['Jest', 'React Testing Library'],
     },
-    design: "Figma"
-    version_control: {
-        "Git",
-        "GitHub"
+    backend: {
+        frameworks: ['Express', '.NET'],
+      databases: ['MySQL', 'SQL Server']
+    },
+    design: 'Figma',
+    version_control: [ 'Git', 'GitHub', 'Gitlab'],
+    favorites: {
+        frontend: 'React.js',
+        backend: 'Express',
+        database: 'MySQL',
     },
 };
 ```
+
