@@ -1,7 +1,6 @@
 <img  src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
 
 <h1> Frontend Developer | Fullstack Developer</h1>
-<h2>About me</h2>
 Hi! I'm Pavel Montes, a Fullstack Developer with a strong focus on frontend development. Passionate about reading 📚, football 🏈, playing video games 🎮, and listening to music 🎶.
 
 ## Skills
